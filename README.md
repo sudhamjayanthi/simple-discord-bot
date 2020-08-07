@@ -1,2 +1,2 @@
 # simple-discord-bot
-Simple discord bot with Discord.py
+Simple discord bot using Discord.py
